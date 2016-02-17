@@ -1,2 +1,2 @@
 # flask_rest
-Studing Flask RESTfull framework
+Studing Flask RESTful framework
